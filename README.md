@@ -75,7 +75,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-3708-61f7-929c-443954b25cde/raw?se=2025-07-06T22%3A15%3A38Z&sp=r&sv=2024-08-04&sr=b&scid=8fd49155-04fc-5e97-953f-2113791070c5&skoid=a3412ad4-1a13-47ce-91a5-c07730964f35&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-06T11%3A09%3A17Z&ske=2025-07-07T11%3A09%3A17Z&sks=b&skv=2024-08-04&sig=%2BpovSR2n3OJ/MKe27347tHO7IB%2BX4Tqez%2BJse3ynABk%3D"  />
+<img align="right" height="150px" width="150px" src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-3708-61f7-929c-443954b25cde/raw?se=2025-07-06T22%3A15%3A38Z&sp=r&sv=2024-08-04&sr=b&scid=8fd49155-04fc-5e97-953f-2113791070c5&skoid=a3412ad4-1a13-47ce-91a5-c07730964f35&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-06T11%3A09%3A17Z&ske=2025-07-07T11%3A09%3A17Z&sks=b&skv=2024-08-04&sig=%2BpovSR2n3OJ/MKe27347tHO7IB%2BX4Tqez%2BJse3ynABk%3D"  />
 
 ###
 
